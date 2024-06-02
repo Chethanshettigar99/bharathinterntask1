@@ -9,6 +9,7 @@ View all tasks in a RecyclerView.
 Clear the entered task after adding it to the list.
 Display a toast message if the user tries to add an empty task.
 
+languages:
 Java: While Kotlin is preferred, some existing Android libraries and frameworks might still be written in Java. This project might use Java for specific functionalities.
 
 XML: XML is used for defining the user interface layouts of the app. This includes the layout of the main activity and the individual task items in the RecyclerView.
